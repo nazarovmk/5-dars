@@ -1,0 +1,179 @@
+@import url(https://fonts.googleapis.com/css2?family=Karla:wght@100;200;300;400;500;600;700&display=swap);
+
+html {
+  height: 100%;
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Karla", sans-serif;
+  height: 100%;
+  display: grid;
+  place-items: center;
+  align-items: center;
+  background-color: #e0f1e8;
+}
+
+.allotof {
+  width: 73.6rem;
+  padding-left: 4rem;
+  background-color: #ffffff;
+  border-radius: 16px;
+}
+
+.text {
+  font-family: "Karla";
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 32px;
+}
+
+input {
+  padding: 2px 3px;
+  font-family: "Poppins";
+  cursor: pointer;
+  border-color: #0c7d69;
+  border: 1px solid;
+  border-radius: 8px;
+  width: 320px;
+  height: 40px;
+}
+
+input:focus {
+  cursor: text;
+  outline: 0;
+}
+
+label {
+  display: flex;
+  flex-direction: column;
+}
+
+span {
+  padding-bottom: 8px;
+  font-family: Karla;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.control {
+  display: flex;
+  gap: 16px;
+}
+
+.label-Adress {
+  margin-top: 24px;
+}
+
+.input-Email {
+  width: 665px;
+}
+
+.name-type {
+  margin-top: 1.6rem;
+  padding: 2px 3px;
+  font-family: "Poppins";
+  cursor: pointer;
+  border-color: #0c7d69;
+  border: 1px solid;
+  border-radius: 8px;
+  padding-top: 12px;
+  width: 320px;
+  height: 40px;
+  background-color: #ffffff;
+}
+
+.name-type:active {
+  background-color: #e0f1e8;
+}
+
+.name-typ {
+  margin-top: 4rem;
+  padding: 2px 3px;
+  font-family: "Poppins";
+  cursor: pointer;
+  border-color: #0c7d69;
+  border: 1px solid;
+  border-radius: 8px;
+  padding-top: 12px;
+  width: 320px;
+  height: 40px;
+  background-color: #ffffff;
+}
+
+.name-typ:active {
+  background-color: #e0f1e8;
+}
+
+.bottom-df {
+  padding-left: 24px;
+  display: flex;
+  gap: 12px;
+}
+
+.general {
+  margin-top: 2.4rem;
+  display: flex;
+  gap: 1.6rem;
+}
+
+.main-div {
+  flex-direction: column;
+}
+
+.radio {
+  width: 19.5px;
+  height: 19.5px;
+  top: 4px;
+  left: 2.25px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.Message {
+  margin-top: 24px;
+}
+
+textarea {
+  width: 100%;
+  max-width: 665px;
+  resize: vertical;
+  border-radius: 8px;
+}
+
+.checkbox {
+  margin-top: 4rem;
+}
+
+.box {
+  display: flex;
+  gap: 20px;
+}
+
+.consed {
+  width: 18px;
+  height: 18px;
+}
+
+.Submit {
+  width: 665px;
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+  border: 1p solid;
+  text-align: center;
+  align-items: center;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  background-color: #0c7d69;
+  border-radius: 8px;
+}
+
+.bottom-text {
+  text-decoration: none;
+  font-family: Karla;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 27px;
+  color: #ffffff;
+}
