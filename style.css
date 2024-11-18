@@ -18,25 +18,25 @@ body {
   width: 73.6rem;
   padding-left: 4rem;
   background-color: #ffffff;
-  border-radius: 16px;
+  border-radius: 1.6rem;
 }
 
 .text {
   font-family: "Karla";
   font-size: 3.2rem;
   font-weight: 700;
-  line-height: 32px;
+  line-height: 3.2rem;
 }
 
 input {
-  padding: 2px 3px;
+  padding: 0.2rem 0.3rem;
   font-family: "Poppins";
   cursor: pointer;
   border-color: #0c7d69;
   border: 1px solid;
-  border-radius: 8px;
-  width: 320px;
-  height: 40px;
+  border-radius: 0.8rem;
+  width: 32rem;
+  height: 4rem;
 }
 
 input:focus {
@@ -50,37 +50,37 @@ label {
 }
 
 span {
-  padding-bottom: 8px;
+  padding-bottom: 0.8rem;
   font-family: Karla;
   font-size: 1.6rem;
   font-weight: 400;
-  line-height: 24px;
+  line-height: 2.4rem;
 }
 
 .control {
   display: flex;
-  gap: 16px;
+  gap: 1.6rem;
 }
 
 .label-Adress {
-  margin-top: 24px;
+  margin-top: 2.4rem;
 }
 
 .input-Email {
-  width: 665px;
+  width: 66.5rem;
 }
 
 .name-type {
   margin-top: 1.6rem;
-  padding: 2px 3px;
+  padding: 0.2rem 0.3rem;
   font-family: "Poppins";
   cursor: pointer;
   border-color: #0c7d69;
-  border: 1px solid;
-  border-radius: 8px;
-  padding-top: 12px;
-  width: 320px;
-  height: 40px;
+  border: 0.1rem solid;
+  border-radius: 0.8rem;
+  padding-top: 1.2rem;
+  width: 32rem;
+  height: 4rem;
   background-color: #ffffff;
 }
 
@@ -90,15 +90,15 @@ span {
 
 .name-typ {
   margin-top: 4rem;
-  padding: 2px 3px;
+  padding: 0.2rem 0.3rem;
   font-family: "Poppins";
   cursor: pointer;
   border-color: #0c7d69;
-  border: 1px solid;
-  border-radius: 8px;
-  padding-top: 12px;
-  width: 320px;
-  height: 40px;
+  border: 0.1rem solid;
+  border-radius: 0.8rem;
+  padding-top: 1.2rem;
+  width: 32rem;
+  height: 4rem;
   background-color: #ffffff;
 }
 
@@ -107,9 +107,9 @@ span {
 }
 
 .bottom-df {
-  padding-left: 24px;
+  padding-left: 2.4rem;
   display: flex;
-  gap: 12px;
+  gap: 1.2rem;
 }
 
 .general {
@@ -125,30 +125,30 @@ span {
 .radio {
   width: 19.5px;
   height: 19.5px;
-  top: 4px;
-  left: 2.25px;
+  top: 0.4rem;
+  left: 0.225rem;
   gap: 0px;
   opacity: 0px;
 }
 
 .Message {
-  margin-top: 24px;
+  margin-top: 2.4rem;
 }
 
 textarea {
   width: 100%;
-  max-width: 665px;
+  max-width: 66.5rem;
   resize: vertical;
-  border-radius: 8px;
+  border-radius: 0.8rem;
 }
 
 .checkbox {
-  margin-top: 4rem;
+  margin-top: 0.4rem;
 }
 
 .box {
   display: flex;
-  gap: 20px;
+  gap: 2rem;
 }
 
 .consed {
@@ -160,13 +160,13 @@ textarea {
   width: 665px;
   margin-top: 4rem;
   margin-bottom: 4rem;
-  border: 1p solid;
+  border: 0.1rem solid;
   text-align: center;
   align-items: center;
-  padding-top: 16px;
-  padding-bottom: 16px;
+  padding-top: 1.6rem;
+  padding-bottom: 1.6rem;
   background-color: #0c7d69;
-  border-radius: 8px;
+  border-radius: 0.8rem;
 }
 
 .bottom-text {
@@ -174,6 +174,6 @@ textarea {
   font-family: Karla;
   font-size: 1.8rem;
   font-weight: 700;
-  line-height: 27px;
+  line-height: 2.7rem;
   color: #ffffff;
 }
