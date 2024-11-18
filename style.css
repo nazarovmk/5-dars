@@ -106,6 +106,10 @@ span {
   background-color: #e0f1e8;
 }
 
+.name-typ:has (.radio:checked) {
+  background-color: #e0f1e8;
+}
+
 .bottom-df {
   padding-left: 2.4rem;
   display: flex;
@@ -163,10 +167,12 @@ textarea {
   border: 0.1rem solid;
   text-align: center;
   align-items: center;
-  padding-top: 1.6rem;
-  padding-bottom: 1.6rem;
   background-color: #0c7d69;
   border-radius: 0.8rem;
+}
+
+.Submit:hover {
+  color: #e0f1e8;
 }
 
 .bottom-text {
